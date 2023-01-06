@@ -1,2 +1,1 @@
-# PrepCouser-Henry
-Este es un repositorio de prueba del modula 2 Prepcurser de Henry
+este proyecto es una prueba de como crear un repositorio y clonarlo desde githud a mi escritorio local
